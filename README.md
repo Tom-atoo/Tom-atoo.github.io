@@ -1,11 +1,9 @@
 Brebeuf A
  
-Hello and welcome to Genshin Impact!!
+Hello do you like gatcha games or are you interested on it then I will recommend you "Genshin Impact."
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.epicgames.com%2Fstore%2Fen-US%2Fp%2Fgenshin-impact&psig=AOvVaw2j-WoaGUX5NQwYBY5PO7F5&ust=1645615740988000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiGv8qnk_YCFQAAAAAdAAAAABAS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Genshin Impact is an action role-playing game developed by Chinese developer Hoyoverse, and first published in 2020. The game features an anime-style open-world environment and an action-based battle system using elemental magic and character-switching. 
 ```markdown
 Syntax highlighted code block
 
