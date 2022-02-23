@@ -20,23 +20,22 @@ Each region contains a archon(God.) In total, there are 7 regions with there res
 
 ## Know that's the information I'll give for you so that you will not spoil anymore details so that you will experience the story quest.
 
-Download now
-    ― ― ―>
-https://genshin.hoyoverse.com/en/company/terms
+Download now ― ― ―>
+lINKhttps://genshin.hoyoverse.com/en/company/terms
 
 
 
 
-### Experience the new patch 2.5 with the new character yae miko also known as Guuji Yae or the Guuji, is a playable Electro character in Genshin Impact.
-Miko oversees the Grand Narukami Shrine and is the owner of the Yae Publishing House.
+### Experience the new patch 2.5 with the new character 
+Yae miko also known as Guuji Yae or the Guuhi is a playable Electro character in GenShin Impact.Miko oversees the Grand Narukami Shrine and is the owner of the Yae Publishing House. In the new patch we will be descovering new eventss,enemies, wepaons, and more. In this patch we will be exploring more and learn about ther past of Enkonomiya 
 
 
-## Character demo
+## Character demo 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4yFiBhNIWYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Patch 2.5
+## Patch 2.5 "When the Sakura Bloom" 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S71sh48SaHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
