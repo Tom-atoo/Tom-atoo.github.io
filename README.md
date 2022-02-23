@@ -23,3 +23,14 @@ Each region contains a archon(God.) In total, there are 7 regions with there res
 Download now
     ― ― ―>
 https://genshin.hoyoverse.com/en/company/terms
+
+
+
+
+### Experience the new patch 2.5 with the new character yae miko also known as Guuji Yae or the Guuji, is a playable Electro character in Genshin Impact.
+Miko oversees the Grand Narukami Shrine and is the owner of the Yae Publishing House.
+
+
+
+
+
