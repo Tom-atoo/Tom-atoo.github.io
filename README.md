@@ -21,7 +21,7 @@ Each region contains a archon(God.) In total, there are 7 regions with there res
 ## Know that's the information I'll give for you so that you will not spoil anymore details so that you will experience the story quest.
 
 Download now ― ― ―>
-lINKhttps://genshin.hoyoverse.com/en/company/terms
+https://genshin.hoyoverse.com/pc-launcher/?utm_source=SEA_google_NZMY_SEM_brand_1022&mhy_trace_channel=ga_channel&new=1#/
 
 
 
