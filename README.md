@@ -16,7 +16,7 @@ What are visions? Well a vision is a gift from the gods bestowed upon those with
 enshin Impact Archons are the Gods that preside on each region of Teyvat, which has a total of seven (7) nations to be exact. These deities are the rulers that governs their nation. Every archon has its own gnosis that corresponds to the element of its nation of origin.
 
 # Regions
-Each region contains a archon(God.) In total, there are 7 regions with there respective visions ruled by the Gods we have Mondstadt-Ruled by the anemo archon, Liyue-ruled by the geo archon, Inazuma-ruled by the electro archon, Sumeru-ruled by the dendro archon, Fontaine-ruled by the hydro archon, Natlan-ruled by the pyro archon, and Snezhnaya-ruled by the cryo archon but there is one region ruled with no God which is Khaenri'ah. Khaenri'ah was a nation without a God not because it had a god that died or abandoned them, but because it never had a god to begin with. It was a powerful nation, built purely by humans, an unprecedented flourishing and glorious civilization — it was the pride of humankind.Sonly it was destroyed by the Gods. The only playable/ visitable regions are modstadt,Liyue and Inazuma the upcoming visitable region will be Semeru witch will maybe release in 4.0 in the early summers.
+Each region contains a archon(God.) In total, there are 7 regions with there respective visions ruled by the Gods we have Mondstadt-Ruled by the anemo archon, Liyue-ruled by the geo archon, Inazuma-ruled by the electro archon, Sumeru-ruled by the dendro archon, Fontaine-ruled by the hydro archon, Natlan-ruled by the pyro archon, and Snezhnaya-ruled by the cryo archon but there is one region ruled with no God which is Khaenri'ah. Khaenri'ah was a nation without a God not because it had a god that died or abandoned them, but because it never had a god to begin with. It was a powerful nation, built purely by humans, an unprecedented flourishing and glorious civilization — it was the pride of humankind.Sonly it was destroyed by the Gods. The only playable/ visitable regions are modstadt,Liyue and Inazuma the upcoming visitable region will be Semeru witch will maybe release in 3.0 in the early summers.
 
 ## Know that's the information I'll give for you so that you will not spoil anymore details so that you will experience the story quest.
 
@@ -31,6 +31,13 @@ https://genshin.hoyoverse.com/en/company/terms
 Miko oversees the Grand Narukami Shrine and is the owner of the Yae Publishing House.
 
 
+## Character demo
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4yFiBhNIWYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Patch 2.5
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S71sh48SaHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
