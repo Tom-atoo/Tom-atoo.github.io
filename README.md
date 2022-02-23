@@ -1,15 +1,25 @@
-![image](https://user-images.githubusercontent.com/100007590/155346550-9f576cc3-7d39-401d-8bb4-96f401a54d65.png)
+![image](https://user-images.githubusercontent.com/100007590/155347040-66bbf398-8fd2-4cab-af4d-9facefce4be7.png)
 
+Do you like gatcha games or are you interested on it then I will recommend you "Genshin Impact."
 
- 
-Hello do you like gatcha games or are you interested on it then I will recommend you "Genshin Impact."
+![image](https://user-images.githubusercontent.com/100007590/155346926-a8ed3bde-b382-49a3-b78c-ca5837c1e077.png)
 
 
 Genshin Impact is an action role-playing game developed by Chinese developer Hoyoverse, and first published in 2020. The game features an anime-style open-world environment and an action-based battle system using elemental magic and character-switching. 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-**Bold** and _Italic_ and `Code` text
+
+
+# Visions
+What are visions? Well a vision is a gift from the gods bestowed upon those with great ambition or passion living in Teyvat. They take the form of tools that grant those who wield them the ability to channel certain elemental powers. There are 7 visions Pyro(fire), Hydro (water),Electro(lightning), Cryo(Ice), Dendro(grass), Anemo(wind), and Geo (earth).
+
+# Archons
+enshin Impact Archons are the Gods that preside on each region of Teyvat, which has a total of seven (7) nations to be exact. These deities are the rulers that governs their nation. Every archon has its own gnosis that corresponds to the element of its nation of origin.
+
+# Regions
+Each region contains a archon(God.) In total, there are 7 regions with there respective visions ruled by the Gods we have Mondstadt-Ruled by the anemo archon, Liyue-ruled by the geo archon, Inazuma-ruled by the electro archon, Sumeru-ruled by the dendro archon, Fontaine-ruled by the hydro archon, Natlan-ruled by the pyro archon, and Snezhnaya-ruled by the cryo archon but there is one region ruled with no God which is Khaenri'ah. Khaenri'ah was a nation without a God not because it had a god that died or abandoned them, but because it never had a god to begin with. It was a powerful nation, built purely by humans, an unprecedented flourishing and glorious civilization — it was the pride of humankind.Sonly it was destroyed by the Gods. The only playable/ visitable regions are modstadt,Liyue and Inazuma the upcoming visitable region will be Semeru witch will maybe release in 4.0 in the early summers.
+
+## Know that's the information I'll give for you so that you will not spoil anymore details so that you will experience the story quest.
+
+Download now
+    ― ― ―>
+https://genshin.hoyoverse.com/en/company/terms
