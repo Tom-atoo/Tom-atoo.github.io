@@ -30,8 +30,8 @@ https://genshin.hoyoverse.com/pc-launcher/?utm_source=SEA_google_NZMY_SEM_brand_
 
 
 
-### Experience the new patch 2.5 with the new character 
-Yae miko also known as Guuji Yae or the Guuhi is a playable Electro character in GenShin Impact.Miko oversees the Grand Narukami Shrine and is the owner of the Yae Publishing House. In the new patch we will be descovering new eventss,enemies, wepaons, and more. In this patch we will be exploring more and learn about ther past of Enkonomiya 
+### Experience the new patch 2.5 with the new character Yae Miko
+Yae miko also known as Guuji Yae or the Guuhi is a playable Electro character in GenShin Impact.Miko oversees the Grand Narukami Shrine and is the owner of the Yae Publishing House. In the new patch we will be descovering new eventss,enemies, wepaons, and more. In this patch we will be exploring more and learn about the past of Enkonomiya.
 
 
 
