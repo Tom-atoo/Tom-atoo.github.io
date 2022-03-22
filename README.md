@@ -46,3 +46,4 @@ Yae miko also known as Guuji Yae or the Guuhi is a playable Electro character in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S71sh48SaHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t6BZjmGpq40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
